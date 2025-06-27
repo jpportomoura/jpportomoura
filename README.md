@@ -23,10 +23,8 @@
 
 <div align="center">
 
-  <!-- Estatísticas do GitHub -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpportomoura&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpportomoura&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues" alt="GitHub Stats" style="margin-right: 10px;" />
 
-  <!-- Linguagens mais usadas -->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpportomoura&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </div>
@@ -36,5 +34,7 @@
 ### 🐍 Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jpportomoura/jpportomoura/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+  <img src="https://raw.githubusercontent.com/jpportomoura/jpportomoura/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </div>

@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="SQL/PostgreSQL" />
 </p>
 
-![GitHub stats](![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpportomoura&show_icons=true&theme=dark))
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopauloporto&show_icons=true&theme=dark)
 
 
 📬 **Vamos conversar sobre negócios, banco de dados e desenvolvimento de software!**

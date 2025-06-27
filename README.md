@@ -5,7 +5,7 @@
 - 🎓 **Formação**: Cursando Bacharelado em Ciências da Computação / Curso de Algorítimo, C#, Python, C e JavaScript
 - 🌱 **Atualmente aprimorando**: [.Net e C#]
 - 💬 **Conecte-se comigo**:
-  - LinkedIn: [Seu perfil LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-porto-515ab933a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+  - LinkedIn: [João Paulo Porto](https://www.linkedin.com/in/jo%C3%A3o-paulo-porto-515ab933a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
   - Email: jpportomoura@gmail.com
 ### 🛠️ Tech Stack
 

@@ -1,4 +1,5 @@
 ![Header Wave](https://capsule-render.vercel.app/api?type=waving&height=150&color=0172C2&section=header&reversal=true)
+![Header Wave](https://capsule-render.vercel.app/api?type=venom&height=350&color=0172C2&text=Olá!&section=header&reversal=false&fontColor=FFFFFF&fontSize=50&animation=fadeIn&rotate=0)
 
 ## 👋 Olá, eu sou o João Paulo Porto
 

@@ -40,15 +40,15 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopauloporto&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joaopauloporto&theme=tokyonight" alt="GitHub streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloporto&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
 
----
+  <!-- Stats principais -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaopauloporto&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" alt="GitHub Stats" />
+
+  <!-- Gráfico de linguagens -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloporto&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</div>
 
 ### ⚡ Curiosidades
 

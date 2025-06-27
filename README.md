@@ -1,3 +1,5 @@
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&height=150&color=0172C2&section=header&reversal=true)
+
 ## 👋 Olá, eu sou o João Paulo Porto
 
 🎯 **Cargo atual**: Analista de Operações e Soluções - Suporte de TI - Cientista de Computação  

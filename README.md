@@ -34,8 +34,11 @@
 
 ### 🐍 Snake Animation
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpportomoura/jpportomoura/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpportomoura/jpportomoura/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/jpportomoura/jpportomoura/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-  <img src="https://raw.githubusercontent.com/jpportomoura/jpportomoura/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>

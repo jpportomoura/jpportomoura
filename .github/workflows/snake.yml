@@ -1,0 +1,27 @@
+name: Generate Snake Animation 🐍
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # executa diariamente à meia-noite
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: jpportomoura
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist

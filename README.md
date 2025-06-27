@@ -23,11 +23,12 @@
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpportomoura&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues" alt="GitHub Stats" style="margin-right: 10px;" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpportomoura&show_icons=true&count_private=true&hide=prs,issues&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Stats" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpportomoura&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpportomoura&layout=compact&title_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
 
 </div>
+
 
 ---
 

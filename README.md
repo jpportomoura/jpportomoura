@@ -1,16 +1,17 @@
-![Header Wave](https://capsule-render.vercel.app/api?type=waving&height=150&color=0172C2&section=header&reversal=true)
-![Header Wave](https://capsule-render.vercel.app/api?type=venom&height=350&color=0172C2&text=Olá!&section=header&reversal=false&fontColor=FFFFFF&fontSize=50&animation=fadeIn&rotate=0)
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0172C2&section=header&reversal=true"><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0172C2&text=Olá!&section=header&reversal=false&fontColor=FFFFFF&fontSize=50&animation=fadeIn&rotate=0"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=25&duration=2200&pause=1800&color=0172C2&background=FFFFFF00&center=true&vCenter=true&width=250&height=35&lines=Eu+sou+o+Jo%C3%A3o+Paulo+Porto."></div>
 
-## 👋 Olá, eu sou o João Paulo Porto
+
+
+---
 
 🎯 **Cargo atual**: Analista de Operações e Soluções - Suporte de TI - Cientista de Computação  
 🤖 **Áreas de atuação**: Desenvolvimento, Banco de Dados, Estrutura de Rede, Comunicação e Gestão  
-🎓 **Formação**: Bacharelado em Ciências da Computação  
-🌱 **Atualmente aprimorando**: .NET e C#  
+🎓 **Formação**: Cursando Bacharelado em Ciências da Computação  
+💡 **Atualmente aprimorando**: .NET | C# | HTML | CSS | JavaScript
 
 ### 📫 Conecte-se comigo:
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-porto-515ab933a)  
-- 📧 Email: jpportomoura@gmail.com
+- jpportomoura@gmail.com
 
 ---
 
@@ -22,7 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
 
 <div align="center">
 
@@ -45,3 +45,4 @@
   </picture>
 </p>
 
+<img width="100%" src = "https://capsule-render.vercel.app/api?type=waving&height=150&color=0172C2FF&text=EM%20CONSTANTE%20EVOLUÇÃO...&section=footer&fontSize=20&fontAlign=50&fontAlignY=82&fontColor=FFFFFF">

@@ -1,7 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0172C2FF&section=header&reversal=true"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0172C2&text=Olá!&section=header&reversal=false&fontColor=FFFFFF&fontSize=50&animation=fadeIn&rotate=0" style="margin-top: -20px;"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=25&duration=2200&pause=1800&color=0172C2&background=FFFFFF00&center=true&vCenter=true&width=250&height=35&lines=Eu+sou+o+Jo%C3%A3o+Paulo+Porto." alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0172C2FF&section=header&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=165&color=0172C2&text=Hello!&section=header&reversal=false&fontColor=FFFFFF&fontSize=50&animation=fadeIn&rotate=0" style="margin-top: -20px;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geo&size=40&duration=2200&pause=1800&color=FFFFFFFF&background=FFFFFF00&center=true&vCenter=true&width=350&height=50&lines=I+am+Jo%C3%A3o+Paulo+Porto." alt="Typing SVG" />
 </div>
 
 ---
@@ -47,4 +47,4 @@
   </picture>
 </p>
 
-<img width="100%" src = "https://capsule-render.vercel.app/api?type=waving&height=150&color=0172C2FF&text=EM%20CONSTANTE%20EVOLUÇÃO...&section=footer&fontSize=20&fontAlign=50&fontAlignY=82&fontColor=FFFFFF">
+<img width="100%" src = "https://capsule-render.vercel.app/api?type=waving&height=110&color=0172C2FF&text=EM%20CONSTANTE%20EVOLUÇÃO...&section=footer&fontSize=18&fontAlign=50&fontAlignY=82&fontColor=FFFFFF">

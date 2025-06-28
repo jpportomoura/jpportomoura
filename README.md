@@ -1,8 +1,10 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0172C2FF&section=header&reversal=true"/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=165&color=0172C2&text=Hello!&section=header&reversal=false&fontColor=FFFFFF&fontSize=50&animation=fadeIn&rotate=0" style="margin-top: -20px;"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geo&size=40&duration=2200&pause=1800&color=FFFFFFFF&background=FFFFFF00&center=true&vCenter=true&width=350&height=50&lines=I+am+Jo%C3%A3o+Paulo+Porto." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geo&size=40&duration=2500&pause=3000&color=FFFFFFFF&background=FFFFFF00&center=true&vCenter=true&width=350&height=50&lines=I+am+Jo%C3%A3o+Paulo+Porto." alt="Typing SVG" />
 </div>
+
+
 
 ---
 
@@ -11,17 +13,26 @@
 🎓 **Formação**: Cursando Bacharelado em Ciências da Computação  
 💡 **Atualmente aprimorando**: .NET | C# | HTML | CSS | JavaScript
 
-### 📫 Conecte-se comigo:
-- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-porto-515ab933a)  
-- jpportomoura@gmail.com
+### 📫 About me:
 
----
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/joão-paulo-porto-515ab933a/" style="outline: none; box-shadow: none;" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://instagram.com/jppmoura_" style="outline: none; box-shadow: none;" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:jpportomoura@gmail.com" style="outline: none; box-shadow: none;" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-### 🛠️ Tech Stack
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,c,cpp,html,css,js,sql" alt="Tech Stack" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cs,python,c,cpp,html,css,js" alt="Tech Stack" height="50">
 </p>
+
 
 ---
 

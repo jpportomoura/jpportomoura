@@ -1,6 +1,8 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0172C2&section=header&reversal=true"><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0172C2&text=Olá!&section=header&reversal=false&fontColor=FFFFFF&fontSize=50&animation=fadeIn&rotate=0"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=25&duration=2200&pause=1800&color=0172C2&background=FFFFFF00&center=true&vCenter=true&width=250&height=35&lines=Eu+sou+o+Jo%C3%A3o+Paulo+Porto."></div>
-
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0172C2FF&section=header&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0172C2&text=Olá!&section=header&reversal=false&fontColor=FFFFFF&fontSize=50&animation=fadeIn&rotate=0" style="margin-top: -20px;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=25&duration=2200&pause=1800&color=0172C2&background=FFFFFF00&center=true&vCenter=true&width=250&height=35&lines=Eu+sou+o+Jo%C3%A3o+Paulo+Porto." alt="Typing SVG" />
+</div>
 
 ---
 

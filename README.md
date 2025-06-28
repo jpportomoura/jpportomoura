@@ -37,7 +37,7 @@
 
 ---
 
-### 🐍 Snake Animation
+### 🐍 Contributions
 
 <p align="center">
   <picture>
